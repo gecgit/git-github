@@ -1,9 +1,7 @@
 # git & github notes
 
 git clone "our_url with out quotes"
-
 git init
-
 git status
 
 git add .
