@@ -1,4 +1,4 @@
-#git & github notes
+# git & github notes
 
 git clone "our_url with out quotes"
 
